@@ -10,3 +10,5 @@
     3. app启动前提条件：首先运行后端api接口代码，然后在 https://github.com/MLXJZ/CloudAnswer/blob/master/lib/constant.dart#L21 此处更改为本机IP
 
 ### App使用Flutter开发，Api接口使用golang开发
+
+## 本代码仅供学习参考，请勿用于非法用途。
